@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: Data_Storing
+    schema: dbo
+    tables:
+      - name: Bronze_Customers
+      - name: Bronze_Products
+      - name: Bronze_Orders
+      - name: Bronze_Sales
