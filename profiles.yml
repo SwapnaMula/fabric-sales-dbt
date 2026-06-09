@@ -8,9 +8,9 @@ fabric_sales:
       authentication: CLI
 
       endpoint: https://api.fabric.microsoft.com/v1
-      workspaceid: 322e462b-630e-4b2c-bfda-f6cbf030496b
-      lakehouse: Data_Storing
-      lakehouseid: 314ff8bf-9622-44a5-8865-29206e9f40d8
+      workspaceid: <your workspace ID>
+      lakehouse: <Your Lakehouse Name>
+      lakehouseid: <Your Lakehouse ID>
 
       schema: dbo
       threads: 4
